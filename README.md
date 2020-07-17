@@ -1,15 +1,8 @@
-# React Social Authentication Client
-
-![React Social Auth](https://i.imgur.com/acA83LR.gif)
-
-## Medium posts that detail this repo
-* [Twitter, Google, Facebook, Github version on Codeburst](https://medium.com/p/862d59583105)
-* [Twitter only version on ITNEXT](https://medium.com/p/2f6b7b0ee9d2) 
-
+## For Frontend (client side)
 ## Getting Started
 
 ```
-git clone https://github.com/funador/react-auth-client.git
+git clone https://github.com/iplexdev/React-Authentication-Social-App
 cd react-auth-client
 npm i && HTTPS=true npm start
 ```
@@ -47,13 +40,9 @@ Depending on your OS you will have to flag the HTTPS enviornment variable differ
 
 ## Server
 
-Follow the instructions in the [server repo](https://github.com/funador/react-auth-server)
+Follow the instructions in the [server repo](https://github.com/iplexdev/React-Authentication-Social-App)
 
 Finally open https://localhost:3000
 
-#### Deploy
-Everything is set up to deploy to Netlify. You just need to `npm run build` on the client and deploy to netlify.
 
-### Issues
-
-Something not working?  Please [open an issue](https://github.com/funador/react-auth-client/issues)
+# react-Auth-Social-App
