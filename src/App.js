@@ -35,9 +35,10 @@ export default class App extends Component {
     
     return (
       <div className='wrapper'>
+         <h3>Authentication With Social App</h3>
         <div className='container'>
           {this.state.loading
-            ? <Loading />
+            ? buttons(providers, socket)
             : buttons(providers, socket)
           }
         </div>

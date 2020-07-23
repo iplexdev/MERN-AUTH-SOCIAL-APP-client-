@@ -1,6 +1,6 @@
 body {
   font-family: Roboto, sans-serif;
-  background: #F2F2F2;
+  background: aqua;
 }
 
 /* General Animations */
@@ -33,7 +33,7 @@ body {
   justify-content: center;
   align-items: center;
   justify-content: space-around;
-  height: 87vh;
+  height: 75vh;
   width: 90vw;  
 }
 

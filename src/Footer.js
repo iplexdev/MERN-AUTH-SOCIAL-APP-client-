@@ -2,18 +2,9 @@ import React from 'react'
 import FontAwesome from 'react-fontawesome'
 
 export default () => (
-  <footer>
+  <footer style={{alignItems:'center', justifyContent:'center', flexDirection:'column'}}>
     <a 
-      href='https://medium.com/p/862d59583105' 
-      title='Medium Article'
-      className='small-button medium'
-    >
-      <FontAwesome
-        name='medium'
-      />
-    </a>
-    <a 
-      href='https://github.com/funador/react-auth-client' 
+      href='https://github.com/iplexdev/React-Authentication-Social-App' 
       title='Github repo'
       className='small-button github'
     >
@@ -21,6 +12,9 @@ export default () => (
         name='github'
       />
     </a>
+    <div>
+      <h6>IplexDev</h6>
+    </div>
   </footer>
 )
 
