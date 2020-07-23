@@ -2,7 +2,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/iplexdev/React-Authentication-Social-App
+git clone https://github.com/iplexdev/MERN-AUTH-SOCIAL-APP-client-.git
 cd react-auth-client
 npm i && HTTPS=true npm start
 ```
@@ -40,9 +40,6 @@ Depending on your OS you will have to flag the HTTPS enviornment variable differ
 
 ## Server
 
-Follow the instructions in the [server repo](https://github.com/iplexdev/React-Authentication-Social-App)
+Follow the instructions in the [server repo](https://github.com/iplexdev/MERN-AUTH-SCOIAL-APP-server-.git)
 
 Finally open https://localhost:3000
-
-
-# react-Auth-Social-App
