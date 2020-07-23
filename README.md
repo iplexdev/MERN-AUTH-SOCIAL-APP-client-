@@ -1,4 +1,7 @@
 ## For Frontend (client side)
+
+![React Auth Upload](auth1.gif)
+![React Auth Upload](auth2.gif)
 ## Getting Started
 
 ```
